@@ -1,0 +1,14 @@
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Frmistatistik.resources
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmAnaForm.resources
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmGrafikler.resources
+C:\Users\99451\Desktop\C#\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmGiris.resources
